@@ -29,8 +29,8 @@ Um modelo de classificação de dados visa realizar uma previsão com base em oc
 
 De acordo com Ferrari & Silva (2017), em problemas de classificação binária, predições podem ter quatro possíveis classes
 
-- **Verdadeiro positivo (VP):** quando o método diz que a **classe é positiva** e, ao verificar a resposta, vê-se que **a classe era **realmente **positiva**;
-- **Verdadeiro negativo (VN):** quando o método diz que a **classe é negativa** e, ao verificar a resposta, vê-se que **a classe era **realmente **negativa**;
+- **Verdadeiro positivo (VP):** quando o método diz que a **classe é positiva** e, ao verificar a resposta, vê-se que **a classe era** realmente **positiva**;
+- **Verdadeiro negativo (VN):** quando o método diz que a **classe é negativa** e, ao verificar a resposta, vê-se que **a classe era** realmente **negativa**;
 - **Falso positivo (FP):** quando o método diz que a **classe é positiva**, mas ao verificar a resposta, vê-se que **a classe era negativa**;
 - **Falso negativo (FN):** quando o método diz que a **classe é negativa**, mas ao verificar a resposta, vê-se que **a classe era positiva**;
 
