@@ -1,4 +1,4 @@
-## **Cálculo de Métricas deAvaliação de Aprendizado**
+## **Cálculo de Métricas de Avaliação de Aprendizado**
 
  
 
